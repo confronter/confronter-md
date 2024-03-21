@@ -18,17 +18,17 @@
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Confronter/Confronter-Md).***
 
 
-☘️## Contributions
+☘️**Contributions**
 
 Contributions to Confronter-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-☘️## License
+☘️ **License**
 
 The Confronter-Md is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
-☘️## Developer:
+☘️ **Developer**:
 
 - [**Instagram**](https://instagram.com/confronter._)
 - [**WhatsApp**](https://wa.me/254793908571)
