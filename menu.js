@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧🔨CONFRONTER-MD🔨✧────◆
+╭────✧🔨𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁-𝙼𝙳🔨✧────◆
 │🌿 *Préfix* : ${s.PREFIXE}
 │🌿 *User* : ${s.OWNER_NAME}
 │🌿 *Mode* : ${mode}
@@ -40,9 +40,9 @@ const date = moment().format('DD/MM/YYYY');
 │🌿 *Time* : ${temps} 
 │🌿 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │🌿 *Platform* : ${os.platform()}
-│🌿 *Developer* : CONFRONTER
+│🌿 *Developer* : am Frank
 │🌿 *Version* : 𝐯7.5.25
-╰─────✧The-Confronter✧─────◆ \n\n`;
+╰─────✧❕𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁❕✧─────◆ \n\n`;
 
   let menuMsg=`  
 
