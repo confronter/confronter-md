@@ -31,6 +31,6 @@ Enjoy the diverse features of the Flash-Md  to enhance your conversations and ma
 
 ☘️ **Developer**:
 
-- [**Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp**](https://wa.me/254793908571)
+- [**Follow me Instagram**](https://instagram.com/confronter._)
+- [**WhatsApp me Here**](https://wa.me/254793908571)
 
