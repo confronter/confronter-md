@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&pause=1000&color=F70000&random=false&width=435&lines=Confronter-MD+made+by+Am+frank+;Follow+me+IG+%40confronter._)](https://git.io/typing-svg)
  <h1 align="center"> 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁-𝙼𝙳</h1>
-<p align="center"> 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁-𝙼𝙳, A Simple WhatsApp user BOT, Created by Confronter.
+<p align="center"> 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁-𝙼𝙳, A Simple WhatsApp user BOT, Created by @𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁.
 </p>
 
 
@@ -9,7 +9,7 @@
 
 
 
-### Setup
+### Setup⚙️
 
 🍀**HEROKU DEPLOYMENT**
    - ***Click [`FORK`](https://github.com/Confronter/Confronter-Md/fork) and `Star ⭐ Repository` for Courage.***
@@ -19,18 +19,18 @@
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Confronter/Confronter-Md).***
 
 
-☘️**Contributions**
+☘️**Contributions**⚙️
 
 Contributions to Confronter-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-☘️ **License**
+☘️ **License**⚙️
 
-The Confronter-Md is released under the [MIT License](https://opensource.org/licenses/MIT).
+The 𝙲𝙾𝙽𝙵𝚁𝙾𝙽𝚃𝙴𝚁-𝙼𝙳 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
-☘️ **Developer**:
+☘️ **Developer**:⚙️
 
-- [**Follow me Instagram**](https://instagram.com/confronter._)
-- [**WhatsApp me Here**](https://wa.me/254793908571)
+- [**Follow me Instagram😍**](https://instagram.com/confronter._)
+- [**WhatsApp me Here📞**](https://wa.me/254793908571)
 
