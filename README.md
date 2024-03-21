@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&pause=1000&color=F70000&random=false&width=435&lines=Confronter-MD+made+by+Am+frank+;Follow+me+IG+%40confronter._)](https://git.io/typing-svg)
  <h1 align="center"> Confronter-Md</h1>
 <p align="center"> Confronter-Md, A Simple WhatsApp user BOT, Created by Confronter.
 </p>
