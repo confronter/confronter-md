@@ -2,7 +2,7 @@
   "name":"CONFRONTER-MD",
   "description":"An easy and simple WhatsApp bot developed by Confronter",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/ae0f7e0a8d76a772b89e7.jpg",
+  "logo":"https://telegra.ph/file/d8a9806d1daceed9e0533.jpg",
   "repository":"https://github.com/Confronter/CONFRONTER-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/ae0f7e0a8d76a772b89e7.jpg",
+      "value":"https://telegra.ph/file/96999ca291454b3cd28ee.jpg",
       "required":false
        
      },
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"2",
     "required": false
   }  
   },
